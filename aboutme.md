@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Hi! This is usthe team    
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+**Happy coding. Welcome to join us!**   
 
-### My story
+<br  />
+Nobody can go back and start a new beginning, but can start today and make a new ending.  
+<br  />
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
