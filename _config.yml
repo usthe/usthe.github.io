@@ -14,11 +14,12 @@ author: tomsun28
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  SURENESS: "https://usthe.com/sureness" 
+  Issues Translator: "https://github.com/marketplace/actions/issues-translator"  
+  About US: "aboutus"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://blog.usthe.com"
+    - USTHE GITHUB: "https://github.com/usthe"
+    - TOM GITHUB: "https://github.com/tomsun28"
 
 # --- Logo --- #
 
@@ -31,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/avatar-icon.png
 
 
 # --- Footer social media links --- #
@@ -90,7 +91,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "sureness,java,security,shiro"
 
 # --- Colours / background image --- #
 
@@ -115,7 +116,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
