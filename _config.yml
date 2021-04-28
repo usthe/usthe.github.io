@@ -92,7 +92,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "sureness,java,security,shiro"
+keywords: "sureness,java,security,api,rest"
 
 # --- Colours / background image --- #
 
